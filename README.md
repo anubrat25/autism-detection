@@ -1,4 +1,3 @@
-Autism Detection Overview
 This project aims to develop a machine learning system for early detection of autism spectrum disorder (ASD) using behavioral and developmental data.
 
 Features
